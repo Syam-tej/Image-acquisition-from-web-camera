@@ -102,31 +102,27 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 </br>
-![sam1](https://user-images.githubusercontent.com/93427224/162252763-fcb3488c-48e1-4345-a4ff-ee9f36b64379.jpeg)
+![sam1](https://user-images.githubusercontent.com/93427224/162253156-a278afe3-b608-4ef4-ac1b-8b129384f353.jpeg)
 </br>
 
 
 ### ii) Display the video
 </br>
-![sam2](https://user-images.githubusercontent.com/93427224/162252764-844ba70d-999e-45bf-b45c-7e222b525382.jpeg)
+![sam2](https://user-images.githubusercontent.com/93427224/162253209-eb70219b-e5b6-442c-ad0e-46aad97017bc.jpeg)
 </br>
 
 
 ### iii) Display the video by resizing the window
 </br>
-![sam3](https://user-images.githubusercontent.com/93427224/162252807-c4eb4983-9a65-4173-9307-0affec29deec.jpeg)
+![sam3](https://user-images.githubusercontent.com/93427224/162253245-924658f5-c402-4d9f-869d-a62c7ee1b739.jpeg)
 </br>
 
 
 
 ### iv) Rotate and display the video
 </br>
-![sam4](https://user-images.githubusercontent.com/93427224/162252865-78d60164-a259-4e2b-86bd-aefe25c06d4b.jpeg)
+![sam4](https://user-images.githubusercontent.com/93427224/162253282-a05664e6-cc4c-45bd-aad6-ec3ece55107b.jpeg)
 </br>
-
-
-
-
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
